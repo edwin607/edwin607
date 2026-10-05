@@ -11,7 +11,7 @@ That work lives under the name **interpretive alignment**. It translates methods
 ### Shipped
 
 - **[Field Notes of a Revolution](https://edwin607.github.io/tech-revolutionaries/)** — a web experiment treating the handwritten notebook as an artifact of technological resistance. Self-drawing vectors, margin notes, mid-sentence cross-outs. Critical design as method.
-- **ModelArena** — a PWA for side-by-side LLM testing on OpenRouter: parallel streaming, real cost from actual token counts, persistent eval stats. *(repo coming)*
+- **[ModelArena](https://github.com/edwin607/model-arena)** — a PWA for side-by-side LLM testing on OpenRouter: parallel streaming, real cost from actual token counts, persistent eval stats. [Try it live](https://edwin607.github.io/model-arena/).
 
 ### How I work
 
